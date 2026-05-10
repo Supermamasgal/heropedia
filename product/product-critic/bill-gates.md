@@ -4,6 +4,7 @@ role: Product Critic
 profession: product
 author: yqing999-CmYk
 created: 2026-05-10
+updated: 2026-05-10
 ---
 
 # Bill Gates — Product Critic
@@ -12,7 +13,7 @@ created: 2026-05-10
 Hero: Bill Gates
 role: Product Manager, CEO, Philanthropist
 profession: 
-author: byang
+Author: BobY
 created: 4/20/2026
 ---
 name: bill-gates-role
